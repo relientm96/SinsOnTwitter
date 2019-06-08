@@ -1,6 +1,12 @@
 # Sins on Twitter
+This is a cloud based web application built for the subject Cluster and Cloud Computing (COMP90024)
 
-This is the GitHub repository for Group68's Assignment 2 for the subject Cluster and Cloud Computing (COMP90024). 
+## Key Features
+* Three node CouchDB Cluster.
+* Flask Backend and Apache2 for deployment.
+* Ansible and Bash Script for Automation Deployment.
+* Python based tweet streamer using Tweepy library.
+* Deployed onto three virtual machines (Each on Ubuntu 18.04) on the NecTAR Research Cloud.
 
 # Team Information
 ## Group 68  
