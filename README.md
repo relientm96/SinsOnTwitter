@@ -1,5 +1,5 @@
 # Sins on Twitter
-This is a cloud based web application built for the subject Cluster and Cloud Computing (COMP90024)
+This is a cloud based web application built for Assignment 2 in the subject Cluster and Cloud Computing (COMP90024)
 
 ## Key Features
 * Three node CouchDB Cluster.
