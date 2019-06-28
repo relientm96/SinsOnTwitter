@@ -16,15 +16,9 @@ This is a cloud based web application built for Assignment 2 in the subject Clus
 * Wenhao Zhang, 970012  
 * Yang Liu, 837689  
 
-## Website Links (Required to be in University of Melbourne's Network)
-
-### Smaller Dataset Instances (Faster Response Time)
+## Application Links (two links from two instances)
 - http://45.113.235.192/app/
 - http://45.113.234.144/app/
-### From Project Dashboard
-- http://172.26.38.38/app/ 
-- http://172.26.37.231/app/
-- http://172.26.38.62/app/
 
 ## Project Directory
 ```bash
