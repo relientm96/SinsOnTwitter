@@ -1,6 +1,8 @@
 # Sins on Twitter
 This is a cloud based web application built for Assignment 2 in the subject Cluster and Cloud Computing (COMP90024)
 
+REDEPLOYED to show UI only : http://52.221.195.69/app/
+
 ## Key Features
 * Three node CouchDB Cluster.
 * Flask Backend and Apache2 for deployment.
